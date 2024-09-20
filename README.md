@@ -1,2 +1,2 @@
-# clone-tabnews
-Cópia barata do TabNews do curso.dev do Felipe Deschamps!
+# TabFakeNews
+Cópia barata do TabNews do https://curso.dev do Felipe Deschamps!
